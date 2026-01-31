@@ -4,12 +4,11 @@ This repository contains hands-on cybersecurity work focused on offensive and de
 
 All work is performed in authorized lab environments such as TryHackMe and Hack The Box.
 
-## Contents
-
-### CTF Writeups
+### CTF & Lab Writeups
 - [Basic Pentest (TryHackMe)](ctf-writeups/tryhackme_basic_pentest.md)
 - [Web Enumeration Lab (TryHackMe)](ctf-writeups/tryhackme_web_enum.md)
-
+- [Introduction to SIEM (TryHackMe)](ctf-writeups/tryhackme_intro_to_siem.md)
+  
 ## Goals
 This portfolio demonstrates:
 - Technical problem-solving
