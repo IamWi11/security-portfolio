@@ -1,0 +1,4 @@
+[submodule "thm-notes"]
+	path = thm-notes
+	url = https://github.com/IamWi11/tryhackme-notes.git
+	branch = main
