@@ -8,6 +8,10 @@ All work is performed in authorized lab environments such as TryHackMe and Hack 
 - [Basic Pentest (TryHackMe)](ctf-writeups/tryhackme_basic_pentest.md)
 - [Web Enumeration Lab (TryHackMe)](ctf-writeups/tryhackme_web_enum.md)
 - [Introduction to SIEM (TryHackMe)](ctf-writeups/tryhackme_intro_to_siem.md)
+
+### TryHackMe Notes (folder)
+- The THM notes live in thm-notes/ (a submodule pointing to https://github.com/IamWi11/tryhackme-notes). On fresh clones, run:
+  git submodule update --init --recursive
   
 ## Hands-on Labs
 - TryHackMe: Linux Fundamentals Part 1 — Completed 2026-02-07  
