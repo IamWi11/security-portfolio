@@ -9,6 +9,10 @@ All work is performed in authorized lab environments such as TryHackMe and Hack 
 - [Web Enumeration Lab (TryHackMe)](ctf-writeups/tryhackme_web_enum.md)
 - [Introduction to SIEM (TryHackMe)](ctf-writeups/tryhackme_intro_to_siem.md)
   
+## Hands-on Labs
+- TryHackMe: Linux Fundamentals Part 1 — Completed 2026-02-07  
+  Skills: filesystem navigation (ls, cd, find, grep), permissions (chmod, chown, umask), processes/services (ps, top, systemctl), packages (apt, dpkg), archives (tar, gzip), SSH/scp, basic networking (ip, ss).
+
 ## Goals
 This portfolio demonstrates:
 - Technical problem-solving
